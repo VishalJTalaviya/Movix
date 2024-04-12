@@ -1,0 +1,8 @@
+1. cd client 
+    npm run dev
+2. cd server
+    nodemon server
+3. open mongodb in chrome (project 0 = movix)
+
+4. if api no calling so, privacy setting in DNS change
+    Cloudflare(l.l.l.l)
