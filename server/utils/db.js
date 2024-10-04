@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const URL = "mongodb+srv://movix:VishaL0202@cluster0.1jzvmro.mongodb.net/movix"
+const URL = "mongodb://localhost:27017"
 
 const connectDB  = async () => {
     try {
