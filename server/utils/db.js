@@ -1,5 +1,10 @@
+
 const mongoose = require("mongoose");
-const URL = "mongodb://localhost:27017";
+const URL = "mongo atlas url";
+
+const mongoose = require('mongoose');
+const URL = "mongo atlas url"
+
 
 const connectDB = async () => {
   try {
